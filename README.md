@@ -15,4 +15,4 @@
 - Библиотеки: `opencv-python`, `numpy`, `matplotlib`, `tkinter'
 # Еще
 Пример обработки - example.png
-
+<img width="1424" height="959" alt="2011final" src="https://github.com/user-attachments/assets/dcdab173-5c1c-4c29-ba6e-003cceea3d67" />
